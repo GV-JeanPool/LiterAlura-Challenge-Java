@@ -16,7 +16,7 @@ LiterAlura es una aplicación Java basada en Spring Boot que permite consultar, 
   - Filtrar libros por idioma
   - Estadísticas de libros por idioma
 - **Interfaz de Usuario**: Menú interactivo en consola
-1
+
 ## Requisitos
 
 - **Java JDK 17** o superior
@@ -169,7 +169,7 @@ literalura/
 │   │       └── application.properties         # Configuración de la aplicación
 │   └── test/                                   # Tests de la aplicación
 ├── pom.xml                                     # Configuración de Maven
-└── README.md                                   # Este archivo
+└── README.md                                   # Datos del proyecto
 ```
 
 ## Dependencias

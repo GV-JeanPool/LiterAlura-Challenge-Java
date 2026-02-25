@@ -12,7 +12,9 @@ import java.nio.charset.StandardCharsets;
 public class ConsultaAPI {
 
     private static final String URL_BASE = "https://gutendex.com/books";
-    private static final HttpClient client = HttpClient.newHttpClient();
+    private static final HttpClient client = HttpClient.newBuilder()
+            .followRedirects(HttpClient.Redirect.NORMAL)
+            .build();
     private static final ObjectMapper objectMapper = new ObjectMapper();
 
     public static RespuestaAPIDTO buscarLibrosPorTitulo(String titulo) {
