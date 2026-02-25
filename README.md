@@ -4,6 +4,43 @@
 
 LiterAlura es una aplicación Java basada en Spring Boot que permite consultar, buscar y gestionar un catálogo de libros. La aplicación consume la API **Gutendex** (biblioteca digital con más de 70,000 libros del Proyecto Gutenberg) y almacena la información en una base de datos PostgreSQL.
 
+## 📸 Capturas de Pantalla
+
+### 1️⃣ Ejecución Principal
+<p align="center">
+  <img src="assets/Principal.png" width="650"/>
+</p>
+
+### 2️⃣ Buscar libro por titulo
+<p align="center">
+  <img src="assets/BucarTitulo.png" width="650"/>
+</p>
+
+### 3️⃣ Listar todos los libros
+<p align="center">
+  <img src="assets/ListarLibros.png" width="650"/>
+</p>
+
+### 4️⃣ Listar autores
+<p align="center">
+  <img src="assets/ListarAutores.png" width="650"/>
+</p>
+
+### 5️⃣ Listar autores vivoslibros por idioma
+<p align="center">
+  <img src="assets/ListarIdiomas.png" width="650"/>
+</p>
+
+### 6️⃣ Visualizar Estadisticas
+<p align="center">
+  <img src="assets/VisualizarEstadisticas.png" width="650"/>
+</p>
+
+### 7️⃣ Opción Salir
+<p align="center">
+  <img src="assets/Salir.png" width="650"/>
+</p
+
 ## Características Principales
 
 - **Búsqueda de Libros**: Busca libros por título en la API Gutendex
