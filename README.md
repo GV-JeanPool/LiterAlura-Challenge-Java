@@ -26,7 +26,7 @@ LiterAlura es una aplicación Java basada en Spring Boot que permite consultar, 
   <img src="assets/ListarAutores.png" width="650"/>
 </p>
 
-### 5️⃣ Listar autores vivoslibros por idioma
+### 5️⃣ Listar por idioma
 <p align="center">
   <img src="assets/ListarIdiomas.png" width="650"/>
 </p>
