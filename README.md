@@ -353,5 +353,5 @@ Este proyecto es de código abierto y está disponible bajo la licencia MIT.
 
 ## Autor
 
-- GV- Jean Pool
-- Desarrollado como parte del Challenge ONE de Alura.
+- GV-JeanPool - Desarrollador Java  
+- Proyecto académico - Oracle Next Education
